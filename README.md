@@ -1,4 +1,4 @@
-## Hello there 👋
+## Hello there! 👋
 ## I'm Jason, a 4th year computer science student at UBC!
 I'm currently searching for Summer 2025 internships and new-grad roles starting in Summer 2026 🔭
 
