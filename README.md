@@ -2,7 +2,7 @@
 ## I'm Jason, a 4th year computer science student at UBC
 I'm currently searching for new-grad SWE roles starting in Summer 2026 🔭
 
-Persoanl website: [jason-wang.dev](https://www.jason-wang.dev/)
+Personal website: [jason-wang.dev](https://www.jason-wang.dev/)
 
 Checkout some of the cool projects I've work on in the past:
 - [termiknow (Winner at nwHacks 2025!)](https://github.com/zhangLily2020/nwhacks2025)
